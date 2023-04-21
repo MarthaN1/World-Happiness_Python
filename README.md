@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 For this project, the following Python libraries were used:
 
-pandas - for data analysis
+pandas - for data analysis 
 
 seaborn - for visualization
 
